@@ -1,0 +1,46 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Large data files (optional - uncomment if you don't want to track large files)
+# *.xlsx
+# *.xls
+# *.pbix
+# *.twbx
+
