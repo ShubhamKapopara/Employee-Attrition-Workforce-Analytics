@@ -1,4 +1,4 @@
-# HR Analytics Portfolio Project
+# Employee Attrition & Workforce Analytics
 
 Explore a comprehensive HR Analytics portfolio showcasing data analysis and visualization skills, featuring dashboards in Power BI, Excel, and Tableau, along with SQL queries for deeper insights. This project provides a holistic view of expertise in HR analytics, data visualization, and database management, offering valuable insights into workforce assessment, attrition analysis, and employee demographics.
 
@@ -204,23 +204,7 @@ Open Tableau and refresh the data connections. Navigate through the dashboards f
 
 ## 💬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile/)       
+   [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-Shubham%20Kapopara-%23003366?logo=tableau)](https://public.tableau.com/app/profile/shubham.kapopara/viz/EmployeeAttritionWorkforceAnalytics/Dashboard1)    [![Clone](https://img.shields.io/badge/Clone-Repository-brightgreen)](https://github.com/ShubhamKapopara/Employee-Attrition-Workforce-Analytics.git)    [![Pull Requests](https://img.shields.io/badge/Pull%20Requests-Welcome-blue)](https://github.com/ShubhamKapopara/Employee-Attrition-Workforce-Analytics/pulls)    [![Issues](https://img.shields.io/badge/Report-Issues-red)](https://github.com/ShubhamKapopara/Employee-Attrition-Workforce-Analytics/issues)
 
-[![Clone](https://img.shields.io/badge/Clone-Repository-brightgreen)](https://github.com/ShubhamKapopara/Employee-Attrition-Workforce-Analytics.git) 
-[![Pull Requests](https://img.shields.io/badge/Pull%20Requests-Welcome-blue)](https://github.com/ShubhamKapopara/Employee-Attrition-Workforce-Analytics/pulls) 
-[![Issues](https://img.shields.io/badge/Report-Issues-red)](https://github.com/ShubhamKapopara/Employee-Attrition-Workforce-Analytics/issues)
 
----
-
-## Conclusion
-
-This portfolio project demonstrates the effective utilization of data to derive actionable insights, showcasing technical prowess and dedication to providing valuable solutions through data analysis. The visualizations and findings presented in the Power BI and Tableau dashboards offer a clear understanding of workforce performance and risk profiles.
-
-Through rigorous data analysis using SQL, Excel, Power BI, and Tableau, actionable insights have been uncovered that can inform strategic decision-making within the organization. Moving forward, these insights will guide optimizing workforce strategies, improving retention programs, and enhancing employee satisfaction.
-
-Thank you for exploring the HR Analytics Portfolio Project. We look forward to continuing to leverage data-driven approaches to drive organizational success.
-
----
-
-**MIT License**  
-This project is distributed under the MIT License granting you the freedom to adapt and utilize the codebase as needed.
