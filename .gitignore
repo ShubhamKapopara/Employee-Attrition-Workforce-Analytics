@@ -7,10 +7,6 @@
 Thumbs.db
 desktop.ini
 
-# Large binary files - use Git LFS if you need them
-*.pbix
-*.twbx
-
 # Excel temp files
 ~$*.xlsx
 ~$*.xls
@@ -20,6 +16,3 @@ desktop.ini
 *.tmp
 *.temp
 .~*
-
-# System files
-.DS_Store
