@@ -191,14 +191,6 @@ Open Tableau and refresh the data connections. Navigate through the dashboards f
 - **`excel/`** - Excel pivot tables and analysis
 - **`assets/`** - Screenshots and documentation images
 
----
-
-## 🛠️ Tech Stack
-
-- **Data Analysis:** SQL, Excel, PostgreSQL
-- **Visualization:** Power BI, Tableau
-- **Languages:** SQL, DAX
-- **Large File Storage:** Git LFS
 
 ---
 
