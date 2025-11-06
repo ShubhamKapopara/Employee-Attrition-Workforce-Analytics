@@ -198,4 +198,9 @@ Open Tableau and refresh the data connections. Navigate through the dashboards f
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shubham-kapopara/) [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-Shubham%20Kapopara-%23003366?logo=tableau)](https://public.tableau.com/app/profile/shubham.kapopara/vizzes)    [![Clone](https://img.shields.io/badge/Clone-Repository-brightgreen)](https://github.com/ShubhamKapopara/Employee-Attrition-Workforce-Analytics.git)    [![Pull Requests](https://img.shields.io/badge/Pull%20Requests-Welcome-blue)](https://github.com/ShubhamKapopara/Employee-Attrition-Workforce-Analytics/pulls)    [![Issues](https://img.shields.io/badge/Report-Issues-red)](https://github.com/ShubhamKapopara/Employee-Attrition-Workforce-Analytics/issues)
 
+## MIT License
+
+This project is distributed under the MIT License granting you the freedom to adapt and utilize the codebase as needed.
+
+---
 
